@@ -1,3 +1,6 @@
+# Created for debugging aurelia debugger...
+https://github.com/charlespockert/aurelia-debugger/issues/2 
+
 # aurelia-skeleton-navigation
 
 [![ZenHub](https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)](https://zenhub.io)
@@ -140,7 +143,7 @@ Integration tests are performed with [Protractor](http://angular.github.io/protr
   ```shell
   gulp e2e
   ```
-  
+
 ## Exporting bundled production version
 A gulp task is already configured for that. Use the following command to export the app:
 
